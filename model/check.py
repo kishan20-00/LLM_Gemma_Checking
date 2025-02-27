@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://434e-34-141-141-241.ngrok-free.app/generate"
+url = "https://bb8b-34-105-102-143.ngrok-free.app/generate"
 
 # Single prompt
 prompt = "Hi"
